@@ -1,0 +1,8 @@
+langchain==0.2.15
+langchain-openai==0.1.23
+langchain-community==0.2.15
+duckduckgo-search
+pyowm==3.3.0
+langchainhub==0.1.21
+flask
+python-dotenv
